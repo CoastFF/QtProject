@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>logmsg.ico</file>
+
+    </qresource>
+</RCC>
